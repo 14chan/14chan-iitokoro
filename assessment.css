@@ -4,15 +4,14 @@ body {
     width: 500px;
     margin-right: auto;
     margin-left: auto;
-}
-
-button {
+  }
+  button {
     padding: 5px 20px;
     background-color: #337ab7;
-    border-style: none;
     color: #fdffff;
-}
-
-input {
+    border-color: #2e6da4;
+    border-style: none;
+  }
+  input {
     height: 20px;
-}
+  }
